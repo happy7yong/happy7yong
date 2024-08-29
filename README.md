@@ -5,6 +5,7 @@
 <!--
 **happy7yong/happy7yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
