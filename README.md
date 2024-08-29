@@ -1,5 +1,6 @@
 ## Hi! I'm Yongcha ❤️
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy7yong)](https://github.com/anuraghazra/github-readme-stats)
+
 <iframe src='https://my.spline.design/hellodistortingintro-5a6d58a8798ddc6f140f2cebdf38b213/' frameborder='0' width='100%' height='100%'></iframe>
 <!--
 **happy7yong/happy7yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
