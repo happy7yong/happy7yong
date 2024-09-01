@@ -1,6 +1,6 @@
 ## Hi! I'm Yongcha ❤️
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-일러스트도 그리고 코딩도 하고 디자인도 해요
+- 일러스트도 그리고 코딩도 하고 디자인도 해요
 <!--
 **happy7yong/happy7yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
