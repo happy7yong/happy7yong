@@ -1,5 +1,5 @@
 ## Hi! I'm Yongcha ❤️
-<a href="https://wide-legend-7e1.notion.site/Portfolio-d3434ca607484160a170c7b96f5c7444?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://wide-legend-7e1.notion.site/Portfolio-d3434ca607484160a170c7b96f5c7444?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 - 일러스트도 그리고 코딩도 하고 디자인도 해요
 <!--
 **happy7yong/happy7yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
