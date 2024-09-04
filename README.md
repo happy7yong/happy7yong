@@ -1,5 +1,5 @@
 ## Hi! I'm Yongcha ❤️
-<h3 align="center">🛠️Tool🛠️</h3>
+<h3 align="center">🧩Portfolio🧩</h3>
 <div align="center">
   <a href="https://wide-legend-7e1.notion.site/Portfolio-d3434ca607484160a170c7b96f5c7444?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </div>
