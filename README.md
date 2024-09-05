@@ -1,4 +1,6 @@
 ## Hi! I'm Yongcha ❤️
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 <h3 align="center">🧩Portfolio🧩</h3>
 <div align="center">
   <a href="https://wide-legend-7e1.notion.site/Portfolio-d3434ca607484160a170c7b96f5c7444?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
@@ -16,7 +18,7 @@
   <img src="https://img.shields.io/badge/css-EF2D5E?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
-<hr/>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=Adobe&logoColor=white"/>
 </div>
