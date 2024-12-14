@@ -28,7 +28,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy7yong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=happy7yong&repo=github-readme-stats)](https://github.com/happy7yong/github-readme-stats)
 <!--
 **happy7yong/happy7yong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
