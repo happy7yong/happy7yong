@@ -22,11 +22,10 @@
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=Adobe&logoColor=white"/>
 </div>
 
+
+
+<hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy7yong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 
 
 <!--
