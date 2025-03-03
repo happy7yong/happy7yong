@@ -27,3 +27,4 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=happy7yong)](https://github.com/eungyeole/velog-readme-stats)
 
 
+커밋 너무 귀찮아요 미안
