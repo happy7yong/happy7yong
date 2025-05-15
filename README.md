@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
-<!--미안 졸려요D.LFHJHJㅇsgㅎㅎㅎㅎ오늘 시험이지롱sdfdsfsg  오늘한강감 겟또-->
+<!--미안 졸려요D.LFHJHJㅇsgㅎㅎㅎdgsdf-->
 
 
 <hr>
