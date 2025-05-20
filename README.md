@@ -1,4 +1,4 @@
-## Hi! I'm Yongcha ❤️
+## Hi! I'm Chaeyoung Yong 🐉 ❤️
 
 <h3 align="center">🧩Portfolio🧩</h3>
 <div align="center">
