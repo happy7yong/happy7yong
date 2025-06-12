@@ -2,7 +2,7 @@
 
 <h3 align="center">🧩Portfolio🧩</h3>
 <div align="center">
-  <a href="[https://wide-legend-7e1.notion.site/Profile-170ee90a967f8088904ae99b9bc25c5c?pvs=73](https://wide-legend-7e1.notion.site/196ee90a967f8080ab4fc635e620a674?source=copy_link)"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://wide-legend-7e1.notion.site/Profile-170ee90a967f8088904ae99b9bc25c5c?pvs=73"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </div>
 
 <h3 align="center">💻Stack💻</h3>
