@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
-<!--Thank아놔!.14-->
+<!--Thank아너무 귄찮아요 나 정처기 해야돼 놔!.14-->
 
 
 <hr>
