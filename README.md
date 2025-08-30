@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
-<!--Thank아너무 귄찮아요 나 정처기 해dfj정처ㅎㄴㅇㄹㄴㅎㄴㅇㄹsdghfdsdsgsdffsdfㅀ점 합격 히히wetwerwerew됨 slkdgsf야돼 놔!.14-->
+<!--Thank아너무 귄카카오 강의 보는중14-->
 
 
 <hr>
