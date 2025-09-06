@@ -26,10 +26,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy7yong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=happy7yong)](https://github.com/eungyeole/velog-readme-stats)
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=happy7yong&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/happy7yong"
-  width="600"
-  height="300"
-/>
-</a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/752008818159630124/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
