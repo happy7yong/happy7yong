@@ -1,17 +1,27 @@
-## Hi! I'm Chaeyoung Yong 🐉 
-우리가 살아가는 인생은 단순한 여정이 아니라, 한 편의 영화이자 서사입니다. 그 영화의 주인공은 바로 당신이며, 그 결말을 빛나게 만들 수 있는 힘도 오직 당신에게 있습니다.
+<div align="center">
 
-옛적에 사람들이 별빛을 따라 길을 찾았듯, 저는 그런 당신의 여정에서 스스로 나아갈 방향을 찾게 해주는 빛이 되어 주는 빛의 흔적을 남기는 개발자가 되고 싶습니다.
+## Hi! I'm Chaeyoung Yong 🐉 
+우리가 살아가는 인생은 단순한 여정이 아니라, 한 편의 영화이자 서사입니다. <br>그 영화의 주인공은 바로 당신이며, 그 결말을 빛나게 만들 수 있는 힘도 오직 당신에게 있습니다.
+
+옛적에 사람들이 별빛을 따라 길을 찾았듯, <br>저는 그런 당신의 여정에서 스스로 나아갈 방향을 찾게 해주는 빛이 되어 주는 빛의 흔적을 남기는 개발자가 되고 싶습니다.
+
+### 거대한 우주는 5%의 빛과 95%의 어둠으로 이루어져 있다. <br>그리고 우리는 곧 우주다.
+<br>
+<br>
 
 ## 💻Stack💻
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-EF2D5E?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 
 ## 🍒Interest🍒
@@ -43,3 +53,5 @@
         alt="gitanimals"
       />
     </a>
+
+<div>
