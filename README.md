@@ -3,11 +3,6 @@
 
 옛적에 사람들이 별빛을 따라 길을 찾았듯, 저는 그런 당신의 여정에서 스스로 나아갈 방향을 찾게 해주는 빛이 되어 주는 빛의 흔적을 남기는 개발자가 되고 싶습니다.
 
-<h3 align="center">🧩Portfolio🧩</h3>
-<div style="align-items: center">
-  <a href="https://wide-legend-7e1.notion.site/196ee90a967f8080ab4fc635e620a674"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-</div>
-
 ## 💻Stack💻
 
 <div align="center">
@@ -18,6 +13,12 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-EF2D5E?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</div>
+
+
+## 🧩Portfolio🧩
+<div align= "center">
+  <a href="https://wide-legend-7e1.notion.site/196ee90a967f8080ab4fc635e620a674"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </div>
 
 
