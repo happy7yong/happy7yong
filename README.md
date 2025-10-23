@@ -10,7 +10,6 @@
 <br>
 <br>
 
-https://velog.io/@happy7yong/Temp-Title-hf3adx01
 
 ## 💻Stack💻
 
