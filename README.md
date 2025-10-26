@@ -1,6 +1,8 @@
 <div align="center">
 
-## YongYong 🐉 
+<img width="1975" height="452" alt="Image" src="https://github.com/user-attachments/assets/dbfee8d9-d596-427b-88e7-ce5ea9b842ac" />
+
+<br></br>
 **🎁 세상에 어떤 행동도 무의미하지 않습니다.**
 
 지금은 의미 없어 보여도, 언젠가 그 행동이 나를 지켜줄 날이 올 거라고 믿습니다.
@@ -19,8 +21,9 @@
 
 그런 당신이 인생을 개척할 때, 
 **길을 잃지 않도록 빛을 밝혀주는 개발자**가 되고 싶습니다.
-<br>
-<br>
+
+<br></br>
+<br></br>
 
 
 ## 💻Stack💻
