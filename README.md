@@ -51,13 +51,15 @@
 
 
 
-<!--Thangsdf으아아아fsㅓ너넌어d아하fsf-->
 
 
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy7yong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=happy7yong)](https://github.com/eungyeole/velog-readme-stats)
+
+
+**🎉 Hongik Univ's Jochi 🎉**
 
 <a href="https://www.gitanimals.org/">
       <img
