@@ -26,7 +26,7 @@
 <br></br>
 
 
-## 💻Stack💻
+## 💻 Stack 💻
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -41,13 +41,13 @@
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 
-## 🍒Interest🍒
+## 🍒 Interest 🍒
 <div align="center">
   <img src="https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=GSAP&logoColor=0AE448"/>
   <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
 </div>
 
-## 🧩Portfolio🧩
+## 🧩 Portfolio 🧩
 <div align= "center">
   <a href="https://wide-legend-7e1.notion.site/196ee90a967f8080ab4fc635e620a674"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </div>
