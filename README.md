@@ -82,16 +82,16 @@
 
 | Period | Type | Project | Description | Awards |
 |---|---|---|---|---|
-| 25.09 ~ 25.11 | **⭐️ Core** | mogi-logi | 작은 배움도 기록하고 남기는 개발자 로그 플랫폼 |  |
-| 24.11 ~ 24.12 | **⭐️ Core** | moodo | 작성한 일기에 따라 꽃을 키우는 일기 App | |
-| 25.03 ~ 25.11 | **⭐️ Core / Side** | Abora-TeamTalk-LLM | IT 취준생을 위한 실시간 협업 커뮤니케이션 시뮬레이터  | 👑 |
-| 25.03 ~ 25.11  | **🌸 Side** | GoodHands |  AI 감성 리포트로 시니어–보호자 간 정서적 소통을 지원하는 서비스 | 👑👑 |
-| 24.03 ~ 24.11 | **🌸 Side** | CoBal | AI 반려로봇 정서적 심리를 도와주는 소통 어플리케이션 | 👑👑👑  |
-| 24.09 ~ 24.11 | **🌸 Side** | HIP-Metaverse-LMS | 메타버스 아카데미의 학생들의 통합 관리 웹 서비스 | |
-| 25.12 | **🍁 Hackathon** | pastlife-today | 전생 콘셉트의 4컷 이미지를 생성하는 웹앱 서비스 | |
-| 24.03 ~ 24.06 | **🌱 Toy** | recommand-major | 홍익대학교 개발자의 전공 추천 웹 서비스 | |
-| 24.10 ~ 24.12 | **Freelance** | Induras | 차량 안전 관련 기업 소개용 반응형 웹사이트 | |
-| ongoing | **🪶 Learning** | TIL | 개발 및 학습 과정 기록 |  |
+| 25.09 ~ 25.11 | **⭐️ Core** | <a href="https://github.com/happy7yong/mogi_logi" target="_blank">mogi-logi</a> | 작은 배움도 기록하고 남기는 개발자 로그 플랫폼 |  |
+| 24.11 ~ 24.12 | **⭐️ Core** | <a href="https://github.com/happy7yong/moodo" target="_blank">moodo</a> | 작성한 일기에 따라 꽃을 키우는 일기 App | |
+| 25.03 ~ 25.11 | **⭐️ Core / Side** | <a href="https://github.com/happy7yong/Abora-TeamTalk-LLM" target="_blank">Abora-TeamTalk-LLM</a> | IT 취준생을 위한 실시간 협업 커뮤니케이션 시뮬레이터 | 👑 |
+| 25.03 ~ 25.11 | **🌸 Side** | GoodHands | AI 감성 리포트로 시니어–보호자 간 정서적 소통을 지원하는 서비스 | 👑👑 |
+| 24.03 ~ 24.11 | **🌸 Side** | <a href="https://github.com/happy7yong/CoBal" target="_blank">CoBal</a> | AI 반려로봇 정서적 심리를 도와주는 소통 어플리케이션 | 👑👑👑 |
+| 24.09 ~ 24.11 | **🌸 Side** | <a href="https://github.com/happy7yong/HIP-Metaverse-LMS" target="_blank">HIP-Metaverse-LMS</a> | 메타버스 아카데미의 학생들의 통합 관리 웹 서비스 | |
+| 25.12 | **🍁 Hackathon** | <a href="https://github.com/happy7yong/pastlife-today" target="_blank">pastlife-today</a> | 전생 콘셉트의 4컷 이미지를 생성하는 웹앱 서비스 | |
+| 24.03 ~ 24.06 | **🌱 Toy** | <a href="https://github.com/happy7yong/recommand-major" target="_blank">recommand-major</a> | 홍익대학교 개발자의 전공 추천 웹 서비스 | |
+| 24.10 ~ 24.12 | **Freelance** | <a href="https://induras.kr/" target="_blank">Induras</a> | 차량 안전 관련 기업 소개용 반응형 웹사이트 | |
+| ongoing | **🪶 Learning** | <a href="https://github.com/happy7yong/RAN_TIL" target="_blank">TIL</a> | 개발 및 학습 과정 기록 | |
 
 <br/>
 
