@@ -61,11 +61,18 @@
 
 - **Naver Boostcamp Basic 10th (Kotlin)**  
   *(2025.06 – 2025.07)*  
-  – Mobile Development Track
+  – Mobile Development Track Free Courses
 
-- **KakaoTech Bootcamp 3rd (Full Stack)**  
+- [**KakaoTech Bootcamp 3rd (Full Stack)**](https://kakaotechbootcamp.com/)  
   *(2025.09 – ongoing)*  
   – Full Stack Web Development
+
+<br/>
+
+## 🎨 Creative Experience
+
+- [**Yangdding YouTube Channel**](https://www.youtube.com/@%EC%96%91%EB%9D%B5) – Contents Development (2021–2023)  
+  Minecraft content production and visual asset design
 
 
 <br/>
