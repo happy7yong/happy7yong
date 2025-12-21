@@ -53,7 +53,7 @@
 
 - **Hongik University – Software Convergence**  
   *(2021.03 – 2026.02)*  
-  – Undergraduate · Software Engineering
+  – Major · Software Engineering
 
 - **미래내일 일경험 프로그램**  
   *(2024 – 2025)*  
