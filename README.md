@@ -54,26 +54,23 @@
 
 </div>
 
-
-## 🧩 Projects
 ## 💼 Projects
 
-| 🗓️ Period | 🏷️ Type | 📱 Project | 📝 Description |
-|---|---|---|---|
-| 2024 ~ | **Core** | mogi-logi | 개인 로그 및 기록 중심 웹 서비스 |
-| 2024 ~ | **Core** | moodo | 감정 기록과 일상 회고를 위한 모바일 애플리케이션 |
-| 2024 ~ 2025 | **Core / Side** | Abora-TeamTalk-LLM | 다중 AI 에이전트 기반 대화 시스템 (졸업 프로젝트 · 논문 다수 · 수상 2회) |
-| 2024.03 ~ 2025.03 | **Side** | CoBal | 장기간 진행한 프로젝트 (공모전 수상 3관왕) |
-| 2024.09 ~ 2024.11 | **Side** | HIP-Metaverse-LMS | 메타버스 기반 학습 관리 시스템 |
-| 2024.06 ~ 2024.08 | **Toy** | recommand-major | 전공 추천 웹 서비스 (첫 개인 토이 프로젝트) |
-| 2024 | **Side** | SinabroAppFrontend | 프론트엔드 개발 참여 프로젝트 (수상 1회) |
-| 2025.06 | **Hackathon** | pastlife-today | 3일간 진행한 해커톤 프로젝트 |
-| 2023 | **Toy** | cardcaptorbattle | 초단기 개인 프로젝트 (2일) |
-| ongoing | **Learning** | TIL | 개발 및 학습 과정 기록 |
+| Period | Type | Project | Description | Awards |
+|---|---|---|---|---|
+| 25.09 ~ 25.11 | **⭐️ Core** | mogi-logi | 작은 배움도 기록하고 남기는 개발자 로그 플랫폼 |  |
+| 24.11 ~ 24.12 | **⭐️ Core** | moodo | 작성한 일기에 따라 꽃을 키우는 일기 App | |
+| 25.03 ~ 25.11 | **⭐️ Core / Side** | Abora-TeamTalk-LLM | IT 취준생을 위한 실시간 협업 커뮤니케이션 시뮬레이터  | 👑 |
+| 25.03 ~ 25.11  | **🌸 Side** | GoodHands |  AI 감성 리포트로 시니어–보호자 간 정서적 소통을 지원하는 서비스 | 👑 |
+| 24.03 ~ 24.11 | **🌸 Side** | CoBal | AI 반려로봇 정서적 심리를 도와주는 소통 어플리케이션 | 👑👑👑  |
+| 24.09 ~ 24.11 | **🌸 Side** | HIP-Metaverse-LMS | 메타버스 아카데미의 학생들의 통합 관리 웹 서비스 | |
+| 25.12 | **🍁 Hackathon** | pastlife-today | 전생 콘셉트의 4컷 이미지를 생성하는 웹앱 서비스 | |
+| 24.10 | **🌱 Toy** | cardcaptorbattle | 카드캡터체리 컨셉 기반 카드 게임 웹앱 | |
+| 24.03 ~ 24.06 | **🌱 Toy** | recommand-major | 홍익대학교 개발자의 전공 추천 웹 서비스 | |
+| 24.10 ~ 24.12 | **Freelance** | Induras | 차량 안전 관련 기업 소개용 반응형 웹사이트 | |
+| ongoing | **🪶 Learning** | TIL | 개발 및 학습 과정 기록 |  |
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy7yong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **🎉 Hongik Univ's Jochi 🎉**
