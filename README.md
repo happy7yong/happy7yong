@@ -99,11 +99,11 @@
 
 | Date | Award / Recognition | Project | Description |
 |---|---|---|---|
-| 2024.08.03 | SW융합클러스터 2.0 세종 DX 해커톤 **🥇 대상 (1위)** | CoBal | |
-| 2024.09.22 | 미래내일 일경험 ‘프로젝트형’ **🥈 최우수상 (2위)** | CoBal | |
-| 2024.12.05 | 「미래내일 일경험사업」 우수사례 공모전 **🥉 장려상 (3위)** | CoBal | |
+| 2024.08.03 | SW융합클러스터 2.0 세종 DX 해커톤 **🥇 대상 (1위)** | [CoBal](https://github.com/happy7yong/CoBal) | |
+| 2024.09.22 | 미래내일 일경험 ‘프로젝트형’ **🥈 최우수상 (2위)** | [CoBal](https://github.com/happy7yong/CoBal) | |
+| 2024.12.05 | 「미래내일 일경험사업」 우수사례 공모전 **🥉 장려상 (3위)** | [CoBal](https://github.com/happy7yong/CoBal) | |
 | 2025.06.17 | 홍익대학교 메타버스 융합 SW 아카데미 4기 **🎖️ 우수교육생 선정** |  | IITP 과학기술정보통신부 |
-| 2025.06.17 | 홍익대학교 메타버스 융합 SW 아카데미 4기 **🥇 최우수상 (1위)** | Abora-TeamTalk-LLM | |
+| 2025.06.17 | 홍익대학교 메타버스 융합 SW 아카데미 4기 **🥇 최우수상 (1위)** | [Abora-TeamTalk-LLM](https://github.com/happy7yong/Abora-TeamTalk-LLM) | |
 | 2025.08.03 | SW융합클러스터 2.0 세종 DX 해커톤 **🥉 우수상 (3위)** | GoodHands | |
 | 2025.08.13 | 2025 디지털 창업 아이디어 경진대회 **🥈 우수상 (2위)** | GoodHands | |
 | 2025.10 | 홍익대학교 **🎖️ 표창장** | | |
