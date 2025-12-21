@@ -52,8 +52,25 @@
   <a href="https://wide-legend-7e1.notion.site/196ee90a967f8080ab4fc635e620a674"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </div>
 
+</div>
 
-##
+
+## 🧩 Projects
+## 💼 Projects
+
+| 🗓️ Period | 🏷️ Type | 📱 Project | 📝 Description |
+|---|---|---|---|
+| 2024 ~ | **Core** | mogi-logi | 개인 로그 및 기록 중심 웹 서비스 |
+| 2024 ~ | **Core** | moodo | 감정 기록과 일상 회고를 위한 모바일 애플리케이션 |
+| 2024 ~ 2025 | **Core / Side** | Abora-TeamTalk-LLM | 다중 AI 에이전트 기반 대화 시스템 (졸업 프로젝트 · 논문 다수 · 수상 2회) |
+| 2024.03 ~ 2025.03 | **Side** | CoBal | 장기간 진행한 프로젝트 (공모전 수상 3관왕) |
+| 2024.09 ~ 2024.11 | **Side** | HIP-Metaverse-LMS | 메타버스 기반 학습 관리 시스템 |
+| 2024.06 ~ 2024.08 | **Toy** | recommand-major | 전공 추천 웹 서비스 (첫 개인 토이 프로젝트) |
+| 2024 | **Side** | SinabroAppFrontend | 프론트엔드 개발 참여 프로젝트 (수상 1회) |
+| 2025.06 | **Hackathon** | pastlife-today | 3일간 진행한 해커톤 프로젝트 |
+| 2023 | **Toy** | cardcaptorbattle | 초단기 개인 프로젝트 (2일) |
+| ongoing | **Learning** | TIL | 개발 및 학습 과정 기록 |
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy7yong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -67,7 +84,4 @@
         width="600"
         height="300"
         alt="gitanimals"
-      />
-    </a>
-
-<div>
+      /></a>
