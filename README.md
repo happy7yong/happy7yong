@@ -25,7 +25,6 @@
 <br></br>
 <br></br>
 
-
 ## 💻 Stack 💻
 
 <div align="center">
@@ -47,12 +46,30 @@
   <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
 </div>
 
-## 🧩 Portfolio 🧩
-<div align= "center">
-  <a href="https://wide-legend-7e1.notion.site/196ee90a967f8080ab4fc635e620a674"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-</div>
 
 </div>
+
+## 🎖️ Experience
+
+- **Hongik University – Software Convergence**  
+  *(2021.03 – 2026.02)*  
+  – Undergraduate · Software Engineering
+
+- **미래내일 일경험 프로그램**  
+  *(2024 – 2025)*  
+  – Project-based · ESG · Internship Tracks
+
+- **Naver Boostcamp Basic 10th (Kotlin)**  
+  *(2025.06 – 2025.07)*  
+  – Mobile Development Track
+
+- **KakaoTech Bootcamp 3rd (Full Stack)**  
+  *(2025.09 – ongoing)*  
+  – Full Stack Web Development
+
+
+<br/>
+
 
 ## 💼 Projects
 
@@ -68,7 +85,6 @@
 | 24.03 ~ 24.06 | **🌱 Toy** | recommand-major | 홍익대학교 개발자의 전공 추천 웹 서비스 | |
 | 24.10 ~ 24.12 | **Freelance** | Induras | 차량 안전 관련 기업 소개용 반응형 웹사이트 | |
 | ongoing | **🪶 Learning** | TIL | 개발 및 학습 과정 기록 |  |
-
 
 <br/>
 
@@ -86,10 +102,23 @@
 | 2025.10 | 홍익대학교 **🎖️ 표창장** | | |
 | 2025.11 | 2025년 2학기 **푸른등대 기부장학금 🎖️ 장학생** | | 세종 지역 1명 선발 |
 
+<br/>
+
+## 📑 Certificates
+
+| Date | Certificate | Level | Issued by |
+|---|---|---|---|
+| 2024.04.14 | AI-900 Fundamentals | AI / Entry-level | Microsoft |
+| 2024.06.21 | SQLD | SQL Developer | K-DATA |
+| 2024.11.22 | ADsP | Associate Data Analyst | K-DATA |
+| 2025.09.12 | 정보처리기사 | National Technical Qualification | 한국산업인력공단 |
 
 
+<br/>
 
-**🎉 Hongik Univ's Jochi 🎉**
+<div align="center">
+  
+### 🎉 Hongik Univ's Jochi 🎉
 
 <a href="https://www.gitanimals.org/">
       <img
@@ -98,3 +127,5 @@
         height="300"
         alt="gitanimals"
       /></a>
+      
+</div>
