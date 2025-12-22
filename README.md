@@ -55,7 +55,7 @@
   *(2021.03 – 2026.02)*  
   – Major · Software Engineering
 
-- **Hongik University Metaverse Convergence SW Academy**  
+- **Hongik University Metaverse SW Academy**  
   *(2024 – 2025)*  
   – 3rd Cohort (Team HIP) & 4th Cohort – Advanced (Team ABORA)
 
