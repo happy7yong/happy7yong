@@ -55,15 +55,19 @@
   *(2021.03 – 2026.02)*  
   – Major · Software Engineering
 
+- **Hongik University Metaverse Convergence SW Academy**  
+  *(2024 – 2025)*  
+  – 3rd Cohort (Team HIP) & 4th Cohort – Advanced (Team ABORA)
+
 - **미래내일 일경험 프로그램**  
   *(2024 – 2025)*  
   – Project-based · ESG · Internship Tracks
 
-- **Naver Boostcamp Basic 10th (Kotlin)**  
+- **Naver Boostcamp Basic 10th Cohort(Kotlin)**  
   *(2025.06 – 2025.07)*  
   – Mobile Development Track Free Courses
 
-- [**KakaoTech Bootcamp 3rd (Full Stack)**](https://kakaotechbootcamp.com/)  
+- [**KakaoTech Bootcamp 3rd Cohort(Full Stack)**](https://kakaotechbootcamp.com/)  
   *(2025.09 – ongoing)*  
   – Full Stack Web Development
 
