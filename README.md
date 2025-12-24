@@ -51,9 +51,12 @@
 
 ## 🎖️ Experience
 
-- **Hongik University – Software Convergence**  
-  *(2021.03 – 2026.02)*  
-  – Major · Software Engineering
+- **Hongik University – Software Convergence**   
+  – Major · Software Engineering   
+  *(2021.03 – 2026.02)*
+  
+  – Double Major in Visual & Animation (Withdrawn)    
+  *(2022 – 2023)*
 
 - **Hongik University Metaverse Convergence SW Academy**  
   *(2024 – 2025)*  
