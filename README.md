@@ -63,9 +63,6 @@
   *(2024 – 2025)*  
   – Project-based · ESG · Internship Tracks
 
-- **Naver Boostcamp Basic 10th Cohort(Kotlin)**  
-  *(2025.06 – 2025.07)*  
-  – Mobile Development Track Free Courses
 
 - [**KakaoTech Bootcamp 3rd Cohort(Full Stack)**](https://kakaotechbootcamp.com/)  
   *(2025.09 – ongoing)*  
