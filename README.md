@@ -56,7 +56,7 @@
   *(2021.03 – 2026.02)*
   
   – Double Major in Visual & Animation (Withdrawn)    
-  *(2022 – 2023)*
+  *(2022 – 2024)*
 
 - **Hongik University Metaverse Convergence SW Academy**  
   *(2024 – 2025)*  
