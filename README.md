@@ -77,7 +77,7 @@
 
 - [**Yangdding YouTube Channel**](https://www.youtube.com/@%EC%96%91%EB%9D%B5) – Contents Development (2021–2023)  
   Minecraft content production and visual asset design
-
+  > [Reference](https://wide-legend-7e1.notion.site/Illust-Design-ccaee321fb45428a80edc25b08b37f4e?source=copy_link)
 
 <br/>
 
