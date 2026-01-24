@@ -59,11 +59,11 @@
   *(2022 – 2024)*
 
 - **Hongik University Metaverse Convergence SW Academy**  
-  *(2024 – 2025)*  
+  *(2024.07 – 2025.12)*  
   – 3rd Cohort (Team HIP) & 4th Cohort – Advanced (Team ABORA)
 
 - **미래내일 일경험 프로그램**  
-  *(2024 – 2025)*  
+  *(2024.03 – 2025.11)*  
   – Project-based · ESG · Internship Tracks
 
 
