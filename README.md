@@ -129,14 +129,15 @@
 
 <div align="center">
   
-### 🎉 Hongik Univ's Jochi 🎉
+### 🎉🎉
 
 <a href="https://www.gitanimals.org/">
       <img
-        src="https://render.gitanimals.org/guilds/752008818159630124/draw"
+        src="https://render.gitanimals.org/guilds/810166361256449002/draw"
         width="600"
         height="300"
         alt="gitanimals"
-      /></a>
+      />
+    </a>
       
 </div>
