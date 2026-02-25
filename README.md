@@ -139,5 +139,5 @@
         alt="gitanimals"
       />
     </a>
-      
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happy7yong)](https://solved.ac/happy7yong/)
 </div>
