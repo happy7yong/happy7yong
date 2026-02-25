@@ -130,14 +130,18 @@
 <div align="center">
   
 ### 🎉🎉
+<div >
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happy7yong)](https://solved.ac/happy7yong/)
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/810166361256449002/draw"
-        width="600"
-        height="300"
+        width="380"
+        height="180"
         alt="gitanimals"
       />
     </a>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happy7yong)](https://solved.ac/happy7yong/)
+  
+</div>
+
 </div>
