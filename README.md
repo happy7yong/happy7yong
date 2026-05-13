@@ -68,7 +68,7 @@
 
 
 - [**KakaoTech Bootcamp 3rd Cohort(Full Stack)**](https://kakaotechbootcamp.com/)  
-  *(2025.09 – ongoing)*  
+  *(2025.09 – 2026.03)*  
   – Full Stack Web Development
 
 <br/>
